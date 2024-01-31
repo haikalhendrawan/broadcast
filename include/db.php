@@ -1,9 +1,9 @@
 <?php
 
-$hostname = "localhost";
-$username = "root";
+$hostname = "";
+$username = "";
 $password ="";
-$database ="aplikasibroadcast";
+$database ="";
 
 $conn = mysqli_connect($hostname, $username, $password, $database);
 
